@@ -8,7 +8,7 @@ A demake of the secret "Booty" easter-egg game, originally created by John F. Ca
 
 ![Pico 8 Screenshot](/resources/picodiver_screen.png)
 
-[Windows/Mac & Linux versions](https://github.com/nate2squared/PicoDiver/releases)
+[Windows, Mac & Linux versions](https://github.com/nate2squared/PicoDiver/releases)
 
 Changes from the original include -
 

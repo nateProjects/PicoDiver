@@ -8,11 +8,13 @@ A demake of the secret "Booty" easter-egg game, originally created by John F. Ca
 
 ![Pico 8 Screenshot](/resources/picodiver_screen.png)
 
-Changes include -
+[Windows/Mac & Linux versions](https://github.com/nate2squared/PicoDiver/releases)
+
+Changes from the original include -
 
 * Multiple lives
 * Arcade mode with multiple levels and sharks
-* Changed resolution and platforms
+* New artwork and platforms
 
 As referenced here:
 

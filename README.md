@@ -6,6 +6,8 @@ A demake of the secret "Booty" easter-egg game, originally created by John F. Ca
 
 “You play again as Jim the Cabin Boy, but your mission this time is to dive under the pirate ships floating above you, collecting 20 goldfish before your oxygen runs out. Luckily, you can get up to the surface to get some more air, and you can't actually die in this mini-game, but colliding with the fishes and other underwater lifeforms will make you lose all your goldfish.”
 
+![Pico 8 Screenshot](/resources/picodiver_screen.png)
+
 Changes include -
 
 * Multiple lives
